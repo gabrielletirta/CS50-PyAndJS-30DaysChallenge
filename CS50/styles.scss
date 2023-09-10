@@ -61,3 +61,10 @@ form{
         padding: 3px;
     }
 }
+
+@media screen and (max-width: 760px) {
+    #main_logo{
+        width: 250px;
+        height: 83px;
+    }
+}
