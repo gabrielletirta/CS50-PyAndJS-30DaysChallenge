@@ -18,6 +18,6 @@ Join me on this exhilarating adventure as I push my boundaries and strive to bec
 
 #10/09/2023 Day06: Spent my weekend to finish my school's work but still managed to spent couple hours finish **Lecture 02:Python** and made little update regarding Project01. Today I learned about how Decorators, Lambda Function, and Exception works. Added responsive code for Project 01 logo. 🐍
 
-#11/09/2023 Day07: Figured out how to make the 'image' sign in google images scroll. Didn't do much on this day since I got busy all day long
+#11/09/2023 Day07: Figured out how to make the 'image' sign in google images scroll. Didn't do much on this day since I got busy all day long and spent my evening for school assignments.
 
-#12/09/2023 Day08: I added responsive for whole page (google logo, search bar, 'images' sign, except for nav bar. Still figuring out how to make it stay in place while changing the website layout(responsive). 
+#12/09/2023 Day08: Watched CLAG video for this week's class and spared an hour to add responsive for whole page (google logo, search bar, 'images' sign, except for nav bar. Still figuring out how to make it stay in place while changing the website layout(responsive). 
