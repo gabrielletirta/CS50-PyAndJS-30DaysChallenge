@@ -21,3 +21,5 @@ Join me on this exhilarating adventure as I push my boundaries and strive to bec
 #11/09/2023 Day07: Figured out how to make the 'image' sign in google images scroll. Didn't do much on this day since I got busy all day long and spent my evening for school assignments.
 
 #12/09/2023 Day08: Watched CLAG video for this week's class and spared an hour to add responsive for whole page (google logo, search bar, 'images' sign, except for nav bar. Still figuring out how to make it stay in place while changing the website layout(responsive). 
+
+#13/09/2023 Day09:Finished CLAG JS video for this week's class and continue to do Project01. I sort all of the index.html and images.html responsive webpage problem and start to do the advanced search page. I also learned on GitHub's rebase and merge, push pull basically everything. Sorted out the problem by myeself without asking anyone for help (HAHAHA) #happy #proud
