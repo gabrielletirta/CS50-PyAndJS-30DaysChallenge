@@ -52,18 +52,13 @@ form.main_page {
   align-items: center;
   margin-top: 25px;
 }
-form.main_page #input_search {
+
+input#input_search {
   width: 600px;
   border-radius: 20px;
   border: 1px solid grey;
+  margin-bottom: 15px;
   padding: 10px;
-}
-form.main_page #input_btn {
-  margin-top: 10px;
-  width: 120px;
-  border-radius: 10px;
-  border: 1px solid grey;
-  padding: 3px;
 }
 
 #adv_search_logo {
@@ -85,11 +80,13 @@ form.adv_search_form {
 }
 form.adv_search_form #adv_search_btn {
   margin-left: 575px;
+  margin-right: 20%;
   padding: 9px 14px;
   font-size: 0.7em;
   font-family: Arial, Helvetica, sans-serif;
   font-weight: bold;
   border: #4988eb;
+  border-radius: 2px;
   color: #fff;
   background-color: #4988eb;
   margin-top: 20px;
@@ -102,11 +99,11 @@ div.container-parent {
 div.container-parent .adv_search_input {
   width: 500px;
   height: 1.3rem;
-  margin-right: 20%;
   color: rgb(195, 190, 190);
 }
 
 div.container-child {
+  white-space: nowrap;
   width: 180px;
   display: flex;
   align-items: center;
