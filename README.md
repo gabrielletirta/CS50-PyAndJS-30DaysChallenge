@@ -24,4 +24,6 @@ Join me on this exhilarating adventure as I push my boundaries and strive to bec
 
 #13/09/2023 Day09:Finished CLAG JS video for this week's class and continue to do Project01. I sort all of the index.html and images.html responsive webpage problem and start to do the advanced search page. I also learned on GitHub's rebase and merge, push pull basically everything. Sorted out the problem by myeself without asking anyone for help (HAHAHA) #happy #proud
 
-#14/092023 Day10: Update advanced search page 
+#14/09/2023 Day10: Update advanced search page 
+
+#15/09/2023 Day11: Added the I'm feeling lucky button. Also made several changes, and pretty much all done with Project01. (to do list: parameter, and advanced search code)
