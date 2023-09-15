@@ -45,20 +45,20 @@
   text-decoration: underline;
 }
 
-form {
+form.main_page {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   margin-top: 25px;
 }
-form #input_search {
+form.main_page #input_search {
   width: 600px;
   border-radius: 20px;
   border: 1px solid grey;
   padding: 10px;
 }
-form #input_btn {
+form.main_page #input_btn {
   margin-top: 10px;
   width: 120px;
   border-radius: 10px;
@@ -79,8 +79,47 @@ form #input_btn {
   margin: 30px;
 }
 
-form .adv_search_ls {
-  margin-left: 0;
+form.adv_search_form {
+  margin-top: 50px;
+  margin-left: 20px;
+}
+form.adv_search_form #adv_search_btn {
+  margin-left: 575px;
+  padding: 9px 14px;
+  font-size: 0.7em;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  border: #4988eb;
+  color: #fff;
+  background-color: #4988eb;
+  margin-top: 20px;
+}
+
+div.container-parent {
+  display: flex;
+  margin: 0.7rem;
+}
+div.container-parent .adv_search_input {
+  width: 500px;
+  height: 1.3rem;
+  margin-right: 20%;
+  color: rgb(195, 190, 190);
+}
+
+div.container-child {
+  width: 180px;
+  display: flex;
+  align-items: center;
+}
+div.container-child .adv_search_q {
+  font-size: 13px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+form #adv_search_ls {
+  margin: 0.7rem;
+  font-size: 16px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 }
 
 hr {
@@ -100,21 +139,21 @@ hr {
     color: #4487f6;
     font: 16px/16px roboto-regular, arial, sans-serif;
   }
-  form {
+  form.main_page {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     margin-top: 25px;
   }
-  form #input_search {
+  form.main_page #input_search {
     width: 400px;
     border-radius: 20px;
     border: 1px solid grey;
     padding: 10px;
     transition: width linear 1s;
   }
-  form #input_btn {
+  form.main_page #input_btn {
     margin-top: 10px;
     width: 120px;
     border-radius: 10px;
