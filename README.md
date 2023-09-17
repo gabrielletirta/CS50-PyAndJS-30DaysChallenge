@@ -27,3 +27,5 @@ Join me on this exhilarating adventure as I push my boundaries and strive to bec
 #14/09/2023 Day10: Update advanced search page 
 
 #15/09/2023 Day11: Added the I'm feeling lucky button. Also made several changes, and pretty much all done with Project01. (to do list: parameter, and advanced search code)
+
+#16/09/2023 Day12: I didn't touch the code for today as I was going out the whole day (but I watched CLAG video regarding Web API)
