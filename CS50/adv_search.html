@@ -21,25 +21,33 @@
         <label> Advanced Search</label>
     </div>
     <hr>
-    <form class="adv_search_form" action="https://www.google.com">
+    <form class="adv_search_form" action="https://www.google.com/search">
         <div id="adv_search_ls"> 
             <label>Find pages with...</label>
         </div>
         <div class="container-parent">
-            <div class="container-child"><label class="adv_search_q">all these words: </div>
-            <input class="adv_search_input" type="text"></label>
+            <div class="container-child">
+                <label class="adv_search_q" for="field1">all these words: </label>
+            </div>
+            <input class="adv_search_input" type="text" id="field1" name="as_q">
         </div>
         <div class="container-parent">
-            <div class="container-child"><label class="adv_search_q">this exact word or phrase: </div>
-            <input class="adv_search_input" type="text"></label>
+            <div class="container-child">
+                <label class="adv_search_q" for="field2">this exact word or phrase: </label>
+            </div>
+            <input class="adv_search_input" type="text" id="field2" name="as_epq">
         </div>
         <div class="container-parent">
-            <div class="container-child"><label class="adv_search_q">any of these words: </div>
-            <input class="adv_search_input" type="text"></label>
+            <div class="container-child">
+                <label class="adv_search_q" for="field3">any of these words:</label>
+            </div>
+            <input class="adv_search_input" type="text" id="field3" name="as_oq">
         </div>
         <div class="container-parent">
-            <div class="container-child"><label class="adv_search_q">none of these words: </div>
-            <input class="adv_search_input" type="text"></label>
+            <div class="container-child">
+                <label class="adv_search_q" for="field4">none of these words: </label>
+            </div>
+            <input class="adv_search_input" type="text" id="field4" name="as_eq" >
         </div>
         <input id="adv_search_btn" type="submit" value="Advanced Search">
     </form>
