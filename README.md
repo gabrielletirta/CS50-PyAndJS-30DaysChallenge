@@ -31,4 +31,4 @@ Here, I document the updates I make to the code and provide insights into the le
 
 #17/09/2023 Day13: I fixed I'm feeling lucky button, advanced search and google images code. Also, went to the State Library and did a deep research to get better understanding about GET Parameters, name (key-value). Now I can confidently say that I understand the difference between name and ID, URL Parameters (or known as Query Strings). OOT: Really enjoy studying at the library as it makes me focus so much! 
 
-Please refer to CS50W-Django-practices repository for the rest of the records
+Please refer to [Lecture3:Django (CS50W-Django-practices)](https://github.com/gabrielletirta/CS50-Django-practices) repository for the rest of the records
