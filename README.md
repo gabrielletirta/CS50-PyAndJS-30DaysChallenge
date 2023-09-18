@@ -1,4 +1,4 @@
-🚀 CS50 Web Programming Challenge 🚀
+# 🚀 CS50 Web Programming Challenge 🚀
 
 Welcome to my GitHub repository where I've embarked on the journey of mastering web programming with Python and JavaScript through the CS50 Web Programming course. In this repository, I've cloned Google's search, images, and advanced search pages as project 0, spanning lectures 0 to 2, covering HTML, CSS, Git, and Python.
 
@@ -30,3 +30,5 @@ Here, I document the updates I make to the code and provide insights into the le
 #16/09/2023 Day12: I didn't touch the code for today as I was going out the whole day (but I watched CLAG video regarding Web API)
 
 #17/09/2023 Day13: I fixed I'm feeling lucky button, advanced search and google images code. Also, went to the State Library and did a deep research to get better understanding about GET Parameters, name (key-value). Now I can confidently say that I understand the difference between name and ID, URL Parameters (or known as Query Strings). OOT: Really enjoy studying at the library as it makes me focus so much! 
+
+Please refer to CS50W-Django-practices repository for the rest of the records
